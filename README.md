@@ -16,10 +16,16 @@ See Dinosaur stats,spawns,maps, and much more!
 
 See the beautiful maps for ark, from the island to the crystal isles! Also see where you can find resources and caves! 
 
-##  -[Recipes](recipes.md)-
+##  -[Recipes](recipes.md)- 
 
-[Contributing](#contributing)
+Looking for recipes to cook delicious food? Or trying to tame a dinosaur? look no further find all the recipes you will ever need!
 
+##  -[Tips](tips.md)- 
+
+are you a new player and need help? then this is the place for you, learn cool tips and tricks that will make you a pro i no time!
+
+##  -[Donate<3](Donate.md)- 
+Are you feeling gracious today? well if you want to you can dontate a few dollars to help me out!
 
 <div align="center"> 
  
