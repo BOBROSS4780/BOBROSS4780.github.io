@@ -1,43 +1,61 @@
-
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/0617047f-8770-4dc4-991c-c27c76f3f0f4" alt="logo" width="300" height="150">
-</div>
-<p align="center"> ASIC (Ark Survival Information Center) is website were you can access info about the game ark survival. This website includes Dinosaur information, All of the offical arks maps including resource  maps! The Storyline of Ark,and much more. </p>
-
-
-
-
-
   
-##  - [Dinosaurs](Dinosaurs.md)- 
-See Dinosaur stats,spawns,maps, and much more!    
+# ASIC
 
-##  -[Maps](maps.md)- 
+## Welcome to ASIC (Ark Survival Information Center)!
 
-See the beautiful maps for ark, from the island to the crystal isles! Also see where you can find resources and caves! 
+Your go-to website for all things related to *Ark Survival*! Explore detailed Dinosaur information, all official Ark maps including resource maps, the game's storyline, and much more.
 
-##  -[Recipes](recipes.md)- 
+---
 
-Looking for recipes to cook delicious food? Or trying to tame a dinosaur? look no further find all the recipes you will ever need!
+### 🌟 **Featured Sections:**
 
-##  -[Tips](tips.md)- 
+#### 🦕 [Dinosaurs](Dinosaurs.md) 🦕
+See Dinosaur stats, spawns, maps, and more!  
+*Discover detailed stats and the best ways to encounter your favorite dinos.*
 
-are you a new player and need help? then this is the place for you, learn cool tips and tricks that will make you a pro i no time!
+#### 🗺️ [Maps](maps.md) 🗺️
+Discover the beautiful maps of Ark, from The Island to Crystal Isles. Find resource locations and cave systems!  
+*Navigate the world of Ark with our comprehensive maps.*
 
-##  -[Support<3](Donate.md)- 
-Are you feeling gracious today? well if you want to you can dontate a few dollars to help me out!
+#### 🍽️ [Recipes](recipes.md) 🍽️
+Looking for delicious recipes or tips on taming dinosaurs? Find all the recipes you’ll ever need here!  
+*Cook up a storm or tame like a pro with our extensive recipe collection.*
 
-##  -[Problems and Issues](Issues.md)
-contact support!
+#### 💡 [Tips](tips.md) 💡
+New to the game? Learn cool tips and tricks to become a pro in no time!  
+*Get ahead in Ark with our expert tips and tricks.*
 
-<div align="center">
+#### ❤️ [Support](Donate.md) ❤️
+Feeling generous? Donate a few dollars to help support the site!  
+*Your support keeps us going and improving.*
 
-## Thanks so much for all the support, I really appreciate it!
+#### ⚠️ [Problems and Issues](Issues.md) ⚠️
+Encountering issues? Contact support for help!  
+*We’re here to assist you with any problems you face.*
+
+---
+
+## 🎉 **Thank you so much for your support! I really appreciate it!** 🎉
+
+---
+
+<div align="center" style="font-size: 0.8em; display: flex; justify-content: center; gap: 20px;">
+
+<div>
+  <h3>📣 <a href="#">Stay Connected</a> 📣</h3>
+</div>
+
+<div>
+  <h3>📝 <a href="#">Feedback</a> 📝</h3>
+</div>
 
 </div>
 
 
-                                            
+
+
+
 
 
 
