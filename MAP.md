@@ -1,4 +1,3 @@
-<div align="center">
 
 # **Story Arks**
 
@@ -42,6 +41,5 @@
 ## 💎 [Crystal Isles](Crystal-Isles.md) 💎  
 *Venture into a colorful world with unique creatures and biomes.*
 
-</div>
 
 
