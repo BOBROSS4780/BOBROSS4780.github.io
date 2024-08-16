@@ -2,68 +2,43 @@
 
 ## Story Arks
 
-<p align="center">
-  <strong>🌴 <a href="Island.md">Island</a> 🌴</strong><br>
-  *Explore the island's diverse biomes and challenges.*
-</p>
+### 🌴 [Island](Island.md) 🌴
+*Explore the island's diverse biomes and challenges.*
 
-<p align="center">
-  <strong>🌵 <a href="Scorched-Earth.md">Scorched Earth</a> 🌵</strong><br>
-  *Survive in a harsh desert environment with limited resources.*
-</p>
+### 🌵 [Scorched Earth](Scorched-Earth.md) 🌵
+*Survive in a harsh desert environment with limited resources.*
 
-<p align="center">
-  <strong>🦠 <a href="Aberration.md">Aberration</a> 🦠</strong><br>
-  *Navigate a dangerous underground world filled with unique creatures.*
-</p>
+### 🦠 [Aberration](Aberration.md) 🦠
+*Navigate a dangerous underground world filled with unique creatures.*
 
-<p align="center">
-  <strong>🌍 <a href="Extinction.md">Extinction</a> 🌍</strong><br>
-  *Discover the last days of Earth and fight against titans.*
-</p>
+### 🌍 [Extinction](Extinction.md) 🌍
+*Discover the last days of Earth and fight against titans.*
 
 ## Genesis
 
-<p align="center">
-  <strong>🌌 <a href="Genesis1.md">Genesis 1</a> 🌌</strong><br>
-  *Embark on an adventure through a new world with various biomes.*
-</p>
+### 🌌 [Genesis 1](Genesis1.md) 🌌
+*Embark on an adventure through a new world with various biomes.*
 
-<p align="center">
-  <strong>🚀 <a href="Genesis2.md">Genesis 2</a> 🚀</strong><br>
-  *Experience a new story arc with advanced tech and diverse environments.*
-</p>
+### 🚀 [Genesis 2](Genesis2.md) 🚀
+*Experience a new story arc with advanced tech and diverse environments.*
 
 ## DLC
 
-<p align="center">
-  <strong>🏰 <a href="Fjordur.md">Fjordur</a> 🏰</strong><br>
-  *Explore the Norse-inspired lands with new creatures and challenges.*
-</p>
+### 🏰 [Fjordur](Fjordur.md) 🏰
+*Explore the Norse-inspired lands with new creatures and challenges.*
 
-<p align="center">
-  <strong>🏝️ <a href="Lost-Island.md">Lost Island</a> 🏝️</strong><br>
-  *Discover a mysterious island filled with new adventures.*
-</p>
+### 🏝️ [Lost Island](Lost-Island.md) 🏝️
+*Discover a mysterious island filled with new adventures.*
 
-<p align="center">
-  <strong>🌋 <a href="Ragnarok.md">Ragnarok</a> 🌋</strong><br>
-  *Journey through a vast new world with diverse landscapes.*
-</p>
+### 🌋 [Ragnarok](Ragnarok.md) 🌋
+*Journey through a vast new world with diverse landscapes.*
 
-<p align="center">
-  <strong>🌲 <a href="TheCenter.md">The Center</a> 🌲</strong><br>
-  *A classic map with unique features and biomes.*
-</p>
+### 🌲 [The Center](TheCenter.md) 🌲
+*A classic map with unique features and biomes.*
 
-<p align="center">
-  <strong>🏞️ <a href="Valguero.md">Valguero</a> 🏞️</strong><br>
-  *Explore a map with diverse environments and new creatures.*
-</p>
+### 🏞️ [Valguero](Valguero.md) 🏞️
+*Explore a map with diverse environments and new creatures.*
 
-<p align="center">
-  <strong>💎 <a href="Crystal-Isles.md">Crystal Isles</a> 💎</strong><br>
-  *Venture into a colorful world with unique creatures and biomes.*
-</p>
-
+### 💎 [Crystal Isles](Crystal-Isles.md) 💎
+*Venture into a colorful world with unique creatures and biomes.*
 
