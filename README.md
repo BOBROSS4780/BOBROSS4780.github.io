@@ -24,7 +24,7 @@ Looking for recipes to cook delicious food? Or trying to tame a dinosaur? look n
 
 are you a new player and need help? then this is the place for you, learn cool tips and tricks that will make you a pro i no time!
 
-##  -[Donate<3](Donate.md)- 
+##  -[Support<3](Donate.md)- 
 Are you feeling gracious today? well if you want to you can dontate a few dollars to help me out!
 
 <div align="center"> 
