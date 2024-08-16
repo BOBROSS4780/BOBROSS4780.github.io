@@ -28,6 +28,7 @@ are you a new player and need help? then this is the place for you, learn cool t
 Are you feeling gracious today? well if you want to you can dontate a few dollars to help me out!
 
 ##  -[Problems and Issues](Issues.md)
+contact support!
 
 <div align="center"> 
  
