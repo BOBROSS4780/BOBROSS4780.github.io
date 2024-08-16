@@ -1,6 +1,4 @@
-
- <div align="left">
-  <img src="https://github.com/user-attachments/assets/4fab538b-e46c-4443-afc3-b2aa64d33a32"alt="logo" width="100" height="50"></div>
+<img src="https://github.com/user-attachments/assets/0617047f-8770-4dc4-991c-c27c76f3f0f4" alt="logo" width="100" height="50">
 
 
 <h1 align="center"> ASIC </h1>       
