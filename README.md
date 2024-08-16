@@ -16,7 +16,7 @@ See Dinosaur stats,spawns,maps, and much more!
 
 See the beautiful maps for ark, from the island to the crystal isles! Also see where you can find resources and caves! 
 
-##  -[Recipes](recipies.md)-
+##  -[Recipes](recipes.md)-
 
 [Contributing](#contributing)
 
