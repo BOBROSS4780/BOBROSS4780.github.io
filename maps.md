@@ -1,24 +1,24 @@
-##  - [Dinosaurs](Dinosaurs.md)- 
+##  - [Island](Island.md)- 
 
-##  -[Maps](maps.md)- 
+##  -[Scorched Earth](Scorched earth.md)- 
 
-##  -[Recipes](recipes.md)- 
+##  -[Aberration](aberration.md)- 
 
-##  -[Tips](tips.md)- 
+##  -[Extinction](extinction)- 
 
-##  -[Support<3](Donate.md)- 
+##  -[Genisis 1](G1.md)- 
 
-##  -[Problems and Issues](Issues.md)
+##  -[Genisis 2](G2.md)
 
-##  - [Dinosaurs](Dinosaurs.md)- 
+##  - [Fjordur](Fjordur.md)- 
 
-##  -[Maps](maps.md)- 
+##  -[Lost island](Lost island.md)- 
 
-##  -[Recipes](recipes.md)- 
+##  -[Ragnarok](Ragnarak.md)- 
 
-##  -[Tips](tips.md)- 
+##  -[The Center](TheCenter.md)- 
 
-##  -[Support<3](Donate.md)- 
+##  -[Valguero](volguero.md)- 
 
-##  -[Problems and Issues](Issues.md)
+##  -[Crystal Isles](Crystal Isles.md)
 
