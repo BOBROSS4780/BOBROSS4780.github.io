@@ -1,10 +1,3 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <link rel="stylesheet" href="styles.css">
-</head>
-<body>
-  
 ## Story Arks
 
 ### 🌴 [Island](Island.md) 🌴
@@ -46,7 +39,4 @@
 
 ### 💎 [Crystal Isles](Crystal-Isles.md) 💎
 *Venture into a colorful world with unique creatures and biomes.*
-
-</body>
-</html>
 
