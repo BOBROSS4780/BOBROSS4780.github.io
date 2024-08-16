@@ -9,7 +9,7 @@
 
 <div align="center">
   
-##  - [Dinosaurs](#Dinosaurs.md)-  [Installation](#installation)-  [Usage](#usage)-  [Maps](maps.md)-  [Contributing](#contributing)
+##  - [Dinosaurs](Dinosaurs.md)-  [Installation](#installation)-  [Usage](#usage)-  [Maps](maps.md)-  [Contributing](#contributing)
 
 </div>
 
