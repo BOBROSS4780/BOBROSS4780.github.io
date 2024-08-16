@@ -7,11 +7,19 @@
 
 
 
-<div align="center">
-  
-##  - [Dinosaurs](Dinosaurs.md)-  [Installation](#installation)-  [Usage](#usage)-  [Maps](maps.md)-  [Contributing](#contributing)
 
-</div>
+  
+##  - [Dinosaurs](Dinosaurs.md)- 
+See Dinosaur stats,spawns,maps, and much more!    
+
+##  -[Maps](maps.md)- 
+
+See the beautiful maps for ark, from the island to the crystal isles! Also see where you can find resources and caves! 
+
+##  -[Recipes](recipies.md)-
+
+[Contributing](#contributing)
+
 
 <div align="center"> 
  
