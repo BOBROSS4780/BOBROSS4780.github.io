@@ -30,11 +30,11 @@ Are you feeling gracious today? well if you want to you can dontate a few dollar
 ##  -[Problems and Issues](Issues.md)
 contact support!
 
-<div align="center"> 
- 
- ##  -Thanks so much for all the support i really appreciate all the support
- 
-</div> 
+<div align="center">
+
+## Thanks so much for all the support, I really appreciate it!
+
+</div>
 
 
                                             
