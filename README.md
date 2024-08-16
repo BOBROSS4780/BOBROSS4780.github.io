@@ -17,7 +17,7 @@
   </div>
 
   <div>
-    <h2 style="font-size: 1.5em;"><strong>🗺️ <a href="maps.md" style="font-weight: bold; text-decoration: none; color: #007bff;">Maps</a> 🗺️</strong></h2>
+    <h2 style="font-size: 1.5em;"><strong>🗺️ <a href="MAP.md" style="font-weight: bold; text-decoration: none; color: #007bff;">Maps</a> 🗺️</strong></h2>
     <p><strong>Discover the beautiful maps of Ark, from The Island to Crystal Isles. Find resource locations and cave systems!</strong></p>
     <p><strong><em>Navigate the world of Ark with our comprehensive maps.</em></strong></p>
   </div>
@@ -58,3 +58,6 @@
     <div>
       <h2><strong>📝 <a href="your-feedback-link" style="font-weight: bold; text-decoration: none; color: #007bff;">Feedback</a> 📝</strong></h2>
     </div>
+  </div>
+
+</div>
