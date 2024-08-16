@@ -1,5 +1,5 @@
 
-# **Story Arks**
+# Story Arks
 
 ## 🌴 [Island](Island.md)   
 *Explore the island's diverse biomes and challenges.*
