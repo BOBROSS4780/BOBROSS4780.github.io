@@ -1,24 +1,25 @@
-##  - [Island](Island.md)- 
+## - [Island](Island.md) - 
 
-##  -[Scorched Earth](Scorched earth.md)- 
+## - [Scorched Earth](Scorched-Earth.md) - 
 
-##  -[Aberration](aberration.md)- 
+## - [Aberration](Aberration.md) - 
 
-##  -[Extinction](extinction)- 
+## - [Extinction](Extinction.md) - 
 
-##  -[Genisis 1](G1.md)- 
+## - [Genesis 1](Genesis1.md) - 
 
-##  -[Genisis 2](G2.md)
+## - [Genesis 2](Genesis2.md) -
 
-##  - [Fjordur](Fjordur.md)- 
+## - [Fjordur](Fjordur.md) - 
 
-##  -[Lost island](Lost island.md)- 
+## - [Lost Island](Lost-Island.md) - 
 
-##  -[Ragnarok](Ragnarak.md)- 
+## - [Ragnarok](Ragnarok.md) - 
 
-##  -[The Center](TheCenter.md)- 
+## - [The Center](TheCenter.md) - 
 
-##  -[Valguero](volguero.md)- 
+## - [Valguero](Valguero.md) - 
 
-##  -[Crystal Isles](Crystal Isles.md)
+## - [Crystal Isles](Crystal-Isles.md) -
+
 
