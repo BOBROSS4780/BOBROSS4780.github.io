@@ -32,8 +32,8 @@ contact support!
 
 <div align="center"> 
  
-  # About   
-
+ ##  -Thanks so much for all the support i really appreciate all the support
+ 
 </div> 
 
 
